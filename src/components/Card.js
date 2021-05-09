@@ -1,5 +1,5 @@
 import React from "react";
-import numberFormat from "../tools/numberFormat";
+import { numberFormat } from "../tools/numberFormat";
 
 /**
  *

@@ -1,4 +1,4 @@
-import { Countries } from "../components";
+import { Countries } from "../components/index";
 
 const Home = () => {
   return (

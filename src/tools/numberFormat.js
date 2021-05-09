@@ -3,7 +3,7 @@
  * @param {*} x
  * @returns int with space
  */
-const numberFormat = (x) => {
+export const numberFormat = (x) => {
   return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ");
 };
 

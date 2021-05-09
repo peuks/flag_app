@@ -1,7 +1,7 @@
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import { Home, NotFound, About } from "./pages/index";
+import { Navigation } from "./components/index";
 
-import Navigation from "./components/Navigation";
 import "./styles/index.scss";
 function App() {
   return (
